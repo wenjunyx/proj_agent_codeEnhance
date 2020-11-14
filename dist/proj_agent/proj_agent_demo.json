@@ -1,0 +1,16 @@
+{
+	"plugins":[
+		{
+			"file":"lib/proj_agent_codeEnhance-0.0.1-SNAPSHOT.jar",
+			"args":{
+				"configJson":"proj_config/demo.json",
+				"cacheDir":"demo",
+				"groovyInject":{
+					"enable":true,
+					"configSourceRoot":"G:/code/demo-inject/src/main/groovy",
+					"alertHostProcessName":"idea64.exe"
+				}
+			}
+		}
+	]
+}

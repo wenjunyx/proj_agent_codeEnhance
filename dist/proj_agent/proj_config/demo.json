@@ -1,0 +1,11 @@
+{
+	"import":[
+	],
+	"transform":[
+	],
+	"actions":{
+	},
+	"cms":{
+		"入口类_main":"DemoApplication.main(0)"
+	}
+}

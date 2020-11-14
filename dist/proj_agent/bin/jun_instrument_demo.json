@@ -1,0 +1,15 @@
+{
+  "agent": {
+    "options": "G:/config/proj_agent/lib/proj_agent-0.0.1-SNAPSHOT.jar=configJson%3DG%3A%5Cconfig%5Cproj_agent%5Cproj_agent_demo.json%2Ca%3Db"
+  },
+  "signClass": [
+    {
+      "endsWith": "31353439363139383033343835",
+      "key": "asbaeff"
+    },
+    {
+      "endsWith": "31353439393535313737333930",
+      "key": "dsfdsa"
+    }
+  ]
+}

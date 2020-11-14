@@ -1,0 +1,11 @@
+-noverify
+-Djava.awt.headless=true
+-agentpath:G:\config\proj_agent\bin\jun_instrument.dll=jun_instrument_demo.json
+-server
+-Xms368m
+-Xmx368m
+-XX:PermSize=256M
+-XX:MaxNewSize=256m
+-XX:MaxPermSize=256m
+-Djava.awt.headless=true
+-Dserver.address=169.254.100.96
